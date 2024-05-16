@@ -23,7 +23,7 @@
 </ul>
 <br>
 
-## Vídeo da contrução do projéto:
+## Vídeo da construção do projéto:
 <br> <br>
 
 https://github.com/VictorCandidoLopes/relogio-digital/assets/101593160/d30230ea-1fe7-4ecc-b463-680ec36dcf45

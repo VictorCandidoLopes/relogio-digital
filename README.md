@@ -1,5 +1,5 @@
 # Projeto Relógio Digital
-<p>Este projeto envolve a criação de um relógio digital utilizando as tecnologias HTML, CSS e JavaScript. O objetivo é desenvolver <br> um relógio funcional que exibe a hora atual em tempo real, com um design moderno.</p>
+<p>Este projeto envolve a criação de um relógio digital utilizando as tecnologias HTML, CSS e JavaScript. O objetivo é desenvolver um relógio funcional que exibe a hora atual em tempo real, com um design moderno.</p>
   <br><br>
 
 
